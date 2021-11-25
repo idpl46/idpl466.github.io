@@ -1,8 +1,0 @@
-cat > poolMetaData.json << EOF
-{
-"name": "NICESMILE",
-"description": "Testing Pool",
-"ticker": "NSF",
-"homepage": "https://idpl46.github.io/idpl466.github.io"
-}
-EOF
